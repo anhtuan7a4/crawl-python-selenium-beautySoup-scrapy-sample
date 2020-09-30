@@ -12,3 +12,12 @@
 ```
 ## python crawlWithSelenium.py
 
+```For running verion 2 no need to use Selenium.
+   <br>
+   Create folder results at same top level.
+   <br>
+   Run below command:
+   <br>
+```
+## python main.py
+
